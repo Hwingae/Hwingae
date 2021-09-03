@@ -4,9 +4,6 @@
 - 💞️ I'm working on team project in game making club & projects in university.
 - 📫 How to reach me ...Maybe later, I'm not professional for now & need to study more haha.
 
-I'm new to Github, so there's few stuffs in my repository.
-But I hope you can find something useful from me if you're here for it!
-
 ============================================================================
 
 I'm learning, focusing on:
