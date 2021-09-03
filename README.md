@@ -7,7 +7,7 @@
 I'm new to Github, so there's few stuffs in my repository.
 But I hope you can find something useful from me if you're here for it!
 
-====================================================================================================================================
+============================================================================
 
 I'm learning, focusing on:
 - Game methematics
@@ -17,7 +17,7 @@ And I'm learning these too, but rather slowly:
 - Unreal (Basic level)
 - C++ (for recalling)
 
-====================================================================================================================================
+============================================================================
 
 I'm currently working on:
 
@@ -26,7 +26,7 @@ I'm currently working on:
 - (Upcoming project): Capstone design project. Currently in planning.
 - (Upcoming project): For my friend in Germany. Visual Novel genre. We're currently planning storyline.
 
-====================================================================================================================================
+============================================================================
 
 Thank you! <:3 )~
 
