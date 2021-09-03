@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Programming in general.
 - 🌱 I’m currently in basic level, learning some methematics.
 - 💞️ I'm working on team project in game making club & projects in university.
-- 📫 How to reach me ...Maybe later, I'm not professional for now & need to study more haha.
 
 ============================================================================
 
