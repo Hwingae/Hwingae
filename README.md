@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hwingae
+- 👋 Hi, I’m @YiEun (aka Hwingae(HG)/WD as nickname)
 - 👀 I’m interested in Game Programming in general.
 - 🌱 I’m currently in basic level, learning some methematics.
 - 💞️ I'm working on team project in game making club & projects in university.
