@@ -6,12 +6,13 @@
 ============================================================================
 
 I'm learning, focusing on:
-- Game methematics
+- Algorithm (solving on various platforms, including HackerRank)
 
 And I'm learning these too, but rather slowly:
 - Unity (About more freatures)
 - Unreal (Basic level)
 - C++ (for recalling)
+- Game methematics
 
 ============================================================================
 
