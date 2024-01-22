@@ -1,31 +1,62 @@
 - 👋 Hi, I’m @YiEun (aka Hwingae(HG)/WD as nickname)
-- 👀 I’m interested in Game Programming in general.
-- 🌱 I’m currently in basic level, learning some methematics.
-- 💞️ I'm working on team project in game making club & projects in university.
+- 💻 I'm working as a junior FE Developer.
+- 👀 I’m (sometimes, but still) poking Game Programming as a hobby.
+- 🌱 r/tooManyThingsToLearn
 
-============================================================================
+<p align="center">
+============================================================================</br>
+</br>
+STACKS
+</br>
+</br>
+<img alt="HTML" src ="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+<img alt="CSS" src ="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+<img alt="TailwindCSS" src ="https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindCSS&logoColor=FFFFFF"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=000000"/>
+<img alt="ReactQuery" src ="https://img.shields.io/badge/reactquery-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=FFFFFF"/>
+<br/>
+<img alt="Git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+</br>
+<br/>
+(Thank you <a href="https://shields.io/">shields.io</a> and <a href="https://simpleicons.org/?q=git">simple icons</a>)
+</br>
+</br>
+============================================================================</br>
+</p>
 
-I'm learning, focusing on:
-- Algorithm (solving on various platforms, including HackerRank)
+<pre>
+  
+                                        ~ Looking for the cheese in the sky ~
+  
+                                                                                            ___---___                    
+                                                                                       .--             --.      
+                                                                                     ./   ()          .-. \.
+                                                                                    /   o    .       (   )  \
+                                                                                   / .                '-'    \         
+                                                                                  | ()    .  O             .  |      
+                                                                                 |                             |      
+                                                                                 |    o           ()           |
+                                                                                 |       .--.              O   |            
+                                                                                  | .   |    |                |
+                                                                                   \    `.__.'        o   .  /    
+                                                                                    \                       /                   
+                                                                                     `\  o    ()          /    
+                                                                                       `--___       ___--'
+                                                                                             ------
 
-And I'm learning these too, but rather slowly:
-- Unity (About more freatures)
-- Unreal (Basic level)
-- C++ (for recalling)
-- Game methematics
 
-============================================================================
 
-I'm currently working on:
-
-- Great Aim (Game making club project): Simple FPS game with multiplayer. I'm working on the client level, especially with gun.
-- Mystic Farm (Personal project): 2D farm simulation game. I'm making it rather slowly.
-- (Upcoming project): Capstone design project. Currently in planning.
-- (Upcoming project): For my friend in Germany. Visual Novel genre. We're currently planning storyline.
-
-============================================================================
-
-Thank you! <:3 )~
+  
+                         _
+                       (( )_,     ,
+                .--.    \ '/     /.\
+                    )   / \=    /O o\     _
+                   (   / _/    /' o O| ,_( ))___     (`
+                    `-|   )_  /o_O_'_(  \'    _ `\    ) 
+                      `""""`            =`---<___/---'
+                                            "`
+</pre>
 
 <!---
 Hwingae/Hwingae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
